@@ -6,7 +6,7 @@ torchsummary==1.5.1
 pillow==8.3.2
 pandas==1.0.5
 matplotlib==3.3.0
-numpy==1.19.0
+numpy==1.22.0
 seaborn==0.10.1
 slackclient==2.7.3
 wget==3.2           # download source data from python only
